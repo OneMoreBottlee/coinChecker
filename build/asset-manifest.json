@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coinChecker/static/js/main.00b5390d.js",
+    "index.html": "/coinChecker/index.html",
+    "main.00b5390d.js.map": "/coinChecker/static/js/main.00b5390d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.00b5390d.js"
+  ]
+}
